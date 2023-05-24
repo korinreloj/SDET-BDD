@@ -1,2 +1,2 @@
-# SDET-Python
-SDET Training - Python Lessons
+# SDET-BDD
+SDET Training - BDD 2021
