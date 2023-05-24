@@ -1,0 +1,19 @@
+BDD Cucumber behave
+Python
+Selenium
+
+--feature file
+----steps
+------page classes
+
+
+gherkin language:
+
+given - pre-condition
+when - operations/actions we need to perform
+and - supporting element
+then - expected output
+
+launch application
+enter username and password and login
+verify the title of the page
